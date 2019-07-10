@@ -1,0 +1,16 @@
+PODS:
+  - HLCTMediator (0.1.0)
+
+DEPENDENCIES:
+  - HLCTMediator (from `../`)
+
+EXTERNAL SOURCES:
+  HLCTMediator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HLCTMediator: e1ff63f3af4cb010dd3735a2bd3f13e7f5132543
+
+PODFILE CHECKSUM: 656df5f7e6dafa2e1560aa89e2da77d4d2e29e98
+
+COCOAPODS: 1.7.2
