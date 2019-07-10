@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HLCTMediator_Example' do
+  pod 'HLCTMediator', :path => '../'
+
+  target 'HLCTMediator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
